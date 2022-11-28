@@ -1,3 +1,10 @@
+#MEKANBUL COOLECTIONS REQUEST
+**API Collections Test**
+![API Collection Test](/images/test.png)
+
+**test.js Requests Screenshot**
+![API Collection Test](/images/terminal_test.png.png)
+
 1. [MekanID ile Mekan Bilgilerini Getir](https://mekanbul.yasinciftci.repl.co/api/mekanlar/637bc74a27761970dd3b9ad4)
 ![MekanID ile Mekan Bilgilerini Getir](/images/mekanlar.png)
 
