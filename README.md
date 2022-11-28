@@ -1,4 +1,4 @@
-**MEKANBUL COOLECTIONS REQUEST**
+**MEKANBUL COLLECTIONS REQUEST**
 
 API Collections Test
 ![API Collection Test](/images/test.png)
