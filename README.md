@@ -1,3 +1,3 @@
-[https://mekanbul.zehracakir.repl.co/?enlem=37&boylam=35](https://mekanbul.zehracakir.repl.co/?enlem=37&boylam=35)
+[Replit Adresi: https://mekanbul.yasinciftci.repl.co/?enlem=37&boylam=35.5](https://mekanbul.yasinciftci.repl.co/?enlem=37&boylam=35.5)
 
-![odev7ekranGoruntusu.PNG](/resimler/odev7ekranGoruntusu.PNG)
+![odev7ekranGoruntusu.PNG](/images/odev7ekranGoruntusu.PNG)
